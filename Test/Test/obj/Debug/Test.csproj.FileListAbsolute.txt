@@ -1,0 +1,9 @@
+E:\Code\C#\AOOP\Test\Test\bin\Debug\Test.exe.config
+E:\Code\C#\AOOP\Test\Test\bin\Debug\Test.exe
+E:\Code\C#\AOOP\Test\Test\bin\Debug\Test.pdb
+E:\Code\C#\AOOP\Test\Test\obj\Debug\Test.Game.resources
+E:\Code\C#\AOOP\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Code\C#\AOOP\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Code\C#\AOOP\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Code\C#\AOOP\Test\Test\obj\Debug\Test.exe
+E:\Code\C#\AOOP\Test\Test\obj\Debug\Test.pdb
